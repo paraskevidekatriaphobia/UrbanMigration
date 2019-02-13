@@ -3,6 +3,8 @@
  *  ThreeJsSystem.ts
  *  game execute logical
  *
+ * this is checkmode
+ * 
  * ========================================================================= */
 /// <reference path="./Entity.ts" />
 /// <reference path="./Component.ts" />
@@ -11,6 +13,7 @@
 /// <reference path="./MainSystem.ts" />
 /// <reference path="./HashSet.ts" />
 /// <reference path="./Utils.ts" />
+
 module ECS {
     declare var THREE: any;
     declare var $: any;
